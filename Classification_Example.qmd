@@ -1,7 +1,7 @@
 ---
 title: "Tidymodels workflowsets classification example"
 author: "Dr. Gordon McDonald"
-format: gfm
+format: html
 always_allow_html: true
 editor: visual
 ---
